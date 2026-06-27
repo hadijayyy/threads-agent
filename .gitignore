@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Database
+posts.db
+
+# Cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Misc
+cookie_poster.py
